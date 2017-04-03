@@ -18,7 +18,7 @@
     [super viewDidLoad];
     BrokenLine *brokenLine = [[BrokenLine alloc] initWithFrame:CGRectMake(0,100, self.view.frame.size.width, 100)];
     [self.view addSubview:brokenLine];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do
 }
 
 - (void)didReceiveMemoryWarning {
