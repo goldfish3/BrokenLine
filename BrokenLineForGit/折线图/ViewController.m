@@ -18,12 +18,12 @@
     [super viewDidLoad];
     BrokenLine *brokenLine = [[BrokenLine alloc] initWithFrame:CGRectMake(0,100, self.view.frame.size.width, 100)];
     [self.view addSubview:brokenLine];
-    // Do any
+    //
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    // Dispose of 
 }
 
 @end
